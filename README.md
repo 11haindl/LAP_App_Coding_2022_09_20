@@ -1,1 +1,3 @@
-# LAP_App_Coding_2022_09_20
+# Lehrabschlussprüfung aus dem Lehrberuf Applikationsentwicklung - Coding am 20.09.2022
+
+work in progress
