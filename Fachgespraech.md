@@ -1,8 +1,8 @@
-# Fachgespräch
+# :speech_balloon: Fachgespräch
 
 Bei meiner LAP wurden mir folgende Fragen gestellt:
 
-## Datenbanken
+## :chart_with_upwards_trend: Datenbanken
 
 - Welche Arten von Datenbanken kennen Sie?
 - Worin unterscheiden sich relationale Datenbanken von NoSQL-Datenbanken
@@ -11,7 +11,7 @@ Bei meiner LAP wurden mir folgende Fragen gestellt:
 - Welche Arten von JOINS kennen Sie?
 - Wie können Sie die Schnelligkeit von Datenbankabfragen beeinflussen?
 
-## Programmieren
+## :pencil2: Programmieren
 
 Auf der Tafel steht Pseudo-Code:
 
@@ -70,7 +70,7 @@ for(i = 0, i < 100, i++){
 - Was wird ausgegeben?
 
 
-## Datenschutz/DSGVO
+## :page_with_curl: Datenschutz/DSGVO
 
 ### Szenario des Prüfers
 Sie arbeiten ja mit medizinischen Daten. 
@@ -81,7 +81,7 @@ Bekomme ich diese Informationen von Ihnen? Wie reagieren Sie?
 Es wird in Ihrem Betrieb einen Betriebsausflug geben. Ich bin das Busunternehmen. Ich rufe Sie an und bitte Sie mir die Reisepassdaten der Mitarbeiter zu geben.
 Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 
-## IT-Sicherheit
+## :lock: IT-Sicherheit
 - Wie erkennen Sie beim Aufruf einer Website, ob diese sicher ist?
 - Sie rufen eine Website auf und sehen https und ein Schloss als Sicherheitsmerkmal, trotzdem wird Ihnen im Browser angezeigt, dass diese Seite nicht sicher ist. Wie kann das sein?
 - Was ist der Unterschied, wenn ein Zertifikat von einer Zertifizierungsstelle ausgestellt wird im Gegensatz zu eine self-signed Zertifikat?
