@@ -12,15 +12,15 @@ Es wird ein ER-Diagramm zur Planung des Datenbank-Designs verlangt. Dieses wird 
 Es können aber auch mehrere Eigenschaften in der Produktübersicht dargestellt werden
 -	Bei Auswahl eines Produktes soll man eine genauere Beschreibung zum Produkt sehen.
 -	Admin-Login:
-  -	Es soll ein sicheres Login für den Administrator geben.
-  -	der Administrator soll neue Produkte hinzufügen können. Weiters soll er Produkte bearbeiten oder löschen können
+    -	Es soll ein sicheres Login für den Administrator geben.
+    -	der Administrator soll neue Produkte hinzufügen können. Weiters soll er Produkte bearbeiten oder löschen können
 -	Bestellvorgang (Liefer- und Rechnungsadresse, Bezahlmöglichkeiten mit Rechnung oder Kreditkarte, Rechnungserstellung)
 -	sicheres User-Login
 -	Darstellung auf beliebigen Geräten
 -	Versand der Rechnung per E-Mail
 -	Kommentieren des Codes und Dokumentation
 -	Statistische Auswertung: 
-  - die 5 am schlechtesten verkauften Produkte
-  - die letzten 5 Bestellungen
-  - ...
+    - die 5 am schlechtesten verkauften Produkte
+    - die letzten 5 Bestellungen
+    - ...
 
