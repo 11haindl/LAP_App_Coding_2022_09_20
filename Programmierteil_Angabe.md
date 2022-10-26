@@ -17,7 +17,7 @@ Es können aber auch mehrere Eigenschaften in der Produktübersicht dargestellt 
 -	Bestellvorgang (Liefer- und Rechnungsadresse, Bezahlmöglichkeiten mit Rechnung oder Kreditkarte, Rechnungserstellung)
 -	sicheres User-Login
 -	Darstellung auf beliebigen Geräten
--	Versand der Rechnung per E-Mail
+-	Versand der Bestellbestätigung per E-Mail
 -	Kommentieren des Codes und Dokumentation
 -	Statistische Auswertung: 
     - die 5 am schlechtesten verkauften Produkte
