@@ -132,6 +132,6 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 ## Sonstige
 - Welcher Farbraum wird für die Anzeige auf Bildschirmen verwendet und wie lautet der Farbcode für gelb?
 
-
+Weitere Fragen einer LAP aus 2020: https://github.com/Azgeb/Komplette-LAP/blob/master/Informationen/Fachgespr%C3%A4ch.md
 
 
