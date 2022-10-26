@@ -88,3 +88,50 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Was ist eine Man-in-the-Middle-Attack? Wie können sie Ihre Datenbank vor einer solchen Man-in-the-Middle-Attack schützen?
 
 
+# :speech_balloon: Fragen aus diversen anderen Fachgesächen
+
+## :pencil2: Programmieren/Programmiersprachen
+- Was wird vom Lehrling erwartet (oder generell vom Softwareentwickler), wenn er Code schreiben muss?
+- Welche Punkte müssen beim Entwickeln beachtet werden?
+  - Tipp von Prüfer (wenn Frage nicht verstanden wird): Sie kriegen jetzt einen Task, Sie programmieren jetzt eine Klasse mit Variablen und Methoden. Was muss beachtet werden, wenn Sie programmieren?
+  - Tipp 2. "Wiederverwertbarkeit": ist es wahrscheinlich, dass Code wiederverwenden? (OOP)
+- Was ist zu beachten/noch zu tun, nachdem Code geschrieben und getestet wurde, bevor er zum Kunden kommt?
+- Wie könnte man Programmiersprachen unterteilet werden und wodurch unterscheiden sich Programmier-/Scriptsprachen?
+- Wozu dient ein Debugger und wie verwendet man diesen?
+
+## :chart_with_upwards_trend: Datenbanken
+- Welche Punkte müssen beim Datenbankdesign berücksichtigt werden, oder wie würden Sie ein Datenbankdesign beginnen?
+- Szenario vom Prüfer: Sie entwickeln jetzt eine Person-Tabelle und eine Gruppen-Tabelle, Personen können mehrere Gruppen zugeordnet haben. Wie würden Sie das designen?
+- Wodurch könnte bei SQL SELECT-Statements ein Geschwindigkeitsvorteil erzielt werden (LIMIT) und besteht dieser auch noch in Kombination mit ORDER BY?
+- Datenbankdesign (Diagramm) zeichnen auf Whiteboard (ER-Diagramm zeichnen) -> Personen, Benutzergruppen
+- Wie kann man eine Person mehreren Benutzergruppen zuordnen? -> z.B. eine Person kann Admin-Gruppe und Entwickler-Gruppe haben. Wie wird das funktionieren vom DB-Design her?
+- Normalformen des Designs beachten - Gibt es eine Verletzung der Normalisierung beim DB-Design? (Hier aufpassen)
+- Was ist eine Kardinalität im bezug auf Datenbanken?
+- Erklären Sie die Königsweg-Normalisierung?
+- Was ist eine Code Injektion? Wie kann eine solche Code Injection im Bezug auf Datenbanken aussehen?
+
+## :page_with_curl: DSGVO
+- Szenario vom Prüfer: "Ich bin ihr Lehrling, damit wir bei den Kunden unseren Vor-Ort-Einsatz Einschulungen machen können, müssen wir alle personenbezogenen Daten (Reisepass Daten) an diese Firma schicken."
+  - Die Daten wurden vom Lehrling schon gesendet, was passiert jetzt? Ist das schlecht, dass wir diese Daten senden? Was muss berücksichtigt werden? Was sagen Sie Ihrem Chef, dass der Lehrling die Daten schon gesendet hat? Lösungen?
+  - Was muss grundsätzlich aufgepasst werden, wenn wir diese Daten schicken?
+  - Prüfer: "Wir dürfen diese Daten senden, weil es eigentlich überall 3 Zetteln im Büro aufhängen" - ist das ein gutes Argument?
+- Was ist das Datenschutzgesetz? Was regelt das Datenschutzgesetz? Gilt das Datenschutzgesetz in ganz Europa? muss man für die Firma die DSGVO berücksichtigen?
+- Urheberrecht, Datenschutzgrundgesetz und Copyright => welche dieser 3 Gesetze müssen Sie befolgen (als Programmierer?), welche sind wichtig? Warum ist Copyright wichtig?
+- Wenn eine Software Opensource ist, darf ich sie verwenden? Softwarelizenzierung achten!  z.B. MIT-License, Apache etc. mit einer Lizenzierung darf Opensource-Code weiter kopiert und erweitert werden?
+- Wann benötigen Sie einen Compiler und wann einen Interpreter?
+- Wie funktioniert eine Schnittstelle? Welche Rollen spielen CSV, XML, JSON dabei?
+- Welche Möglichkeiten der Source-Code-Versionierung gibt es?
+- Welche Sortieralgorithmen kennen Sie? Welcher Algorithmus ist schneller?
+
+## Projektmanagement
+- Was ist der Unterschied vom klassischen zum agilen Projektmanagement?
+- Erklären Sie das Pokerkarten-Prinzip.
+- Was ist ein Projektstrukturplan?
+- Wozu benötigt man einen Projektzeitplan? Welche Darstellungsmöglichkeiten kennen Sie?
+
+## Sonstige
+- Welcher Farbraum wird für die Anzeige auf Bildschirmen verwendet und wie lautet der Farbcode für gelb?
+
+
+
+
