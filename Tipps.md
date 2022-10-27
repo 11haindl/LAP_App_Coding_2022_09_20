@@ -3,7 +3,7 @@
 ## Vorbereitung auf die Prüfung
 
 ### Praxisteil
-- versuchen eine Anwendung zu programmieren, wie sie bei der LAP verlangt werden könnte (siehe Repository https://github.com/HammerHai9-1/lap_uebung)
+- versuchen eine Anwendung zu programmieren, wie sie bei der LAP verlangt werden könnte (siehe Repository https://github.com/11haindl/lap_uebung)
 - immer und immer wieder durchprogrammieren, bis man sich sicher ist
 - gleiche Voraussetzungen schaffen, wie sie bei der Prüfung sein werden (VMs, ...)
 - Versuchen bei der Lehrlingsstelle herauszufinden, wie die DB-Verbindung gemacht werden soll (MySQLi oder PDO). 
