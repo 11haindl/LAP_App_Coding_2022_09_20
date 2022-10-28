@@ -11,7 +11,7 @@ Gegebenenfalls kann es sein, dass die Zeiten etwas abweichen
 
 Es wird jedem ein Platz zugeteilt. Am lokalen Rechner ist Linux Mint installiert. Es ist VirtualBox installiert und es gibt 2 VMs.
 1. VM: Windows 11 mit vorinstalliertem VS Code, VS Studio, Notepad++
-2. VM: eine Debian-VM, deren Appliance von Bitnami (https://bitnami.com/stack/lapp/virtual-machine) ist. In der Appliance ist bereits ein LAMP-Stack eingerichtet, d.h. es PHP, der Apache Webserver, MariaDB und der PHPMyAdmin sind bereits vorinstalliert und eingerichtet.
+2. VM: eine Debian-VM, deren Appliance von Bitnami (https://bitnami.com/stack/lamp/virtual-machine) ist. In der Appliance ist bereits ein LAMP-Stack eingerichtet, d.h. es PHP, der Apache Webserver, MariaDB und der PHPMyAdmin sind bereits vorinstalliert und eingerichtet.
 
 Man bekommt ein A4-Blatt mit allen notwendigen Zugangsdaten.
 Es wird nur gewertet, was am Ende der Prüfung vom Webserver bereitgestellt wird!
