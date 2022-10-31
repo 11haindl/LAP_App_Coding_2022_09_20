@@ -107,10 +107,11 @@ if (isset($_SESSION['user'])) {
 
     /* 
     To send an e-mail please edit fields $to and $headers with valid e-mail address.
-    Make sure your server is configured to send mails
+    Make sure your server is configured to send mails.
+    Note that you have to set a valid email address for the user in the database.
     
-    $to      = 'yio36227@cdfaq.com';
-    $subject = 'Bestellung abc';
+    $to      = $user->email;
+    $subject = 'Bestellung ' . $orderNumber;
     $message = 'Wir bestätigen den erhalt Ihrer Bestellung';
     $headers = 'From: sqtzefwkc@zeroe.ml';
 
