@@ -77,7 +77,7 @@ Sie arbeiten ja mit medizinischen Daten.
 Ich rufe Sie an und gebe Ihnen meine Sozialversicherungsnummer und möchte Auskünfte zu meinen Laborauswertungen haben. 
 Bekomme ich diese Informationen von Ihnen? Wie reagieren Sie?
 
-### Szenario2 des Prüfers
+### Szenario 2 des Prüfers
 Es wird in Ihrem Betrieb einen Betriebsausflug geben. Ich bin das Busunternehmen. Ich rufe Sie an und bitte Sie mir die Reisepassdaten der Mitarbeiter zu geben.
 Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 
