@@ -88,7 +88,7 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Was ist eine Man-in-the-Middle-Attack? Wie können sie Ihre Datenbank vor einer solchen Man-in-the-Middle-Attack schützen?
 
 
-# :speech_balloon: Fragen aus diversen anderen Fachgesächen
+# :speech_balloon: Fragen aus diversen anderen Fachgesprächen
 
 ## :pencil2: Programmieren/Programmiersprachen
 - Was wird vom Lehrling erwartet (oder generell vom Softwareentwickler), wenn er Code schreiben muss?
