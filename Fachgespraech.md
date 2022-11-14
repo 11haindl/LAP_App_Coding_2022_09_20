@@ -98,6 +98,12 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Was ist zu beachten/noch zu tun, nachdem Code geschrieben und getestet wurde, bevor er zum Kunden kommt?
 - Wie könnte man Programmiersprachen unterteilet werden und wodurch unterscheiden sich Programmier-/Scriptsprachen?
 - Wozu dient ein Debugger und wie verwendet man diesen?
+- Wann benötigen Sie einen Compiler und wann einen Interpreter?
+- Wie funktioniert eine Schnittstelle? Welche Rollen spielen CSV, XML, JSON dabei?
+- Welche Möglichkeiten der Source-Code-Versionierung gibt es?
+- Welche Sortieralgorithmen kennen Sie? Welcher Algorithmus ist schneller?
+- Nennen Sie die Grundsätze ordentlicher Programmierung (Prinzip DRY, Prinzip KISS, Stabilität, Wiederverwertbarkeit, Modularität, etc.)
+- Erklären Sie den Pseudo-Code an der Tafel (if-else Verschachtelung, for-Schleife mit eigenem Index, die durch die Indices eines Arrays durchgehen und diese setzen soll)
 
 ## :chart_with_upwards_trend: Datenbanken
 - Welche Punkte müssen beim Datenbankdesign berücksichtigt werden, oder wie würden Sie ein Datenbankdesign beginnen?
@@ -109,8 +115,11 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Was ist eine Kardinalität im bezug auf Datenbanken?
 - Erklären Sie die Königsweg-Normalisierung?
 - Was ist eine Code Injektion? Wie kann eine solche Code Injection im Bezug auf Datenbanken aussehen?
+- Szenario: Eine Firma hat mehrere Standorte, Mitarbeiter haben Dienstautos. 
+    - Beispiel-DB ausdenken und aufskizzieren - auf korrekte Relationen achten (1 to 1, 1 to many, many to one, many to many)
+    - SQL Statement angeben, welches darstellt an welchem Standort das Auto von Mitarbeiter X gerade steht.
 
-## :page_with_curl: DSGVO
+## :page_with_curl: Datenschutz und DSGVO
 - Szenario vom Prüfer: "Ich bin ihr Lehrling, damit wir bei den Kunden unseren Vor-Ort-Einsatz Einschulungen machen können, müssen wir alle personenbezogenen Daten (Reisepass Daten) an diese Firma schicken."
   - Die Daten wurden vom Lehrling schon gesendet, was passiert jetzt? Ist das schlecht, dass wir diese Daten senden? Was muss berücksichtigt werden? Was sagen Sie Ihrem Chef, dass der Lehrling die Daten schon gesendet hat? Lösungen?
   - Was muss grundsätzlich aufgepasst werden, wenn wir diese Daten schicken?
@@ -118,10 +127,13 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Was ist das Datenschutzgesetz? Was regelt das Datenschutzgesetz? Gilt das Datenschutzgesetz in ganz Europa? muss man für die Firma die DSGVO berücksichtigen?
 - Urheberrecht, Datenschutzgrundgesetz und Copyright => welche dieser 3 Gesetze müssen Sie befolgen (als Programmierer?), welche sind wichtig? Warum ist Copyright wichtig?
 - Wenn eine Software Opensource ist, darf ich sie verwenden? Softwarelizenzierung achten!  z.B. MIT-License, Apache etc. mit einer Lizenzierung darf Opensource-Code weiter kopiert und erweitert werden?
-- Wann benötigen Sie einen Compiler und wann einen Interpreter?
-- Wie funktioniert eine Schnittstelle? Welche Rollen spielen CSV, XML, JSON dabei?
-- Welche Möglichkeiten der Source-Code-Versionierung gibt es?
-- Welche Sortieralgorithmen kennen Sie? Welcher Algorithmus ist schneller?
+- Probleme mit Google Fonts - Aktueller Fall: Firmen wurde wegen der Verwendung von Google Fonts angezeigt. 
+    - Wie finden Sie heraus, ob Sie in Ihrer Applikation Google-Fonts verwenden? (Dev-Tools - Sources)
+    -  Wo genau liegt hier das Problem? (Fonts werden vom Google Server geladen. Unter Umständen tauchen also Daten wie IP-Adressen auf US-Server von Google auf weil der User von dort die Font ziehen muss)
+
+## IT-Sicherheit
+- Wie würden Sie einen Man-in-the-Middle Angriff durchführen? Beschreiben Sie ihr Vorgehen. Was ist dafür nötig? (eigener Server, Webseite faken, Daten unauffällig weiterleiten)
+- Wie erkennen Sie, dass eine Website sicher ist? Wie kann man ein Zertifikat einsehen? Wie kann man ein solches beziehen?
 
 ## Projektmanagement
 - Was ist der Unterschied vom klassischen zum agilen Projektmanagement?
