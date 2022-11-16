@@ -104,6 +104,7 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Welche Sortieralgorithmen kennen Sie? Welcher Algorithmus ist schneller?
 - Nennen Sie die Grundsätze ordentlicher Programmierung (Prinzip DRY, Prinzip KISS, Stabilität, Wiederverwertbarkeit, Modularität, etc.)
 - Erklären Sie den Pseudo-Code an der Tafel (if-else Verschachtelung, for-Schleife mit eigenem Index, die durch die Indices eines Arrays durchgehen und diese setzen soll)
+- Was ist sicherer ein GET- oder POST-Request und warum?
 
 ## :chart_with_upwards_trend: Datenbanken
 - Welche Punkte müssen beim Datenbankdesign berücksichtigt werden, oder wie würden Sie ein Datenbankdesign beginnen?
@@ -118,6 +119,7 @@ Bekomme ich diese? Welches Gesetz liegt hier zugrunde?
 - Szenario: Eine Firma hat mehrere Standorte, Mitarbeiter haben Dienstautos. 
     - Beispiel-DB ausdenken und aufskizzieren - auf korrekte Relationen achten (1 to 1, 1 to many, many to one, many to many)
     - SQL Statement angeben, welches darstellt an welchem Standort das Auto von Mitarbeiter X gerade steht.
+- Szenario: Sie verwenden bei ihrer Datenbank als Primärschlüssel Integer-Werte. Jemand bittet Sie einen Datensatz zwischen ID 5 und 6 einzufügen, wie gehen Sie vor?
 
 ## :page_with_curl: Datenschutz und DSGVO
 - Szenario vom Prüfer: "Ich bin ihr Lehrling, damit wir bei den Kunden unseren Vor-Ort-Einsatz Einschulungen machen können, müssen wir alle personenbezogenen Daten (Reisepass Daten) an diese Firma schicken."
