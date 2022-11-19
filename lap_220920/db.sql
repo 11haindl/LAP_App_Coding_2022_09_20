@@ -1,7 +1,7 @@
 /* 
 User Login-Daten:
-Administrator: E-Mail: petersilie@lap.com; Passwort: LoginLogin
-normaler Benutzer: E-Mail: annanahs@test.com; Passwort: LoginLogin
+Administrator: E-Mail: petersilie@lap.com; Passwort: loginlogin
+normaler Benutzer: E-Mail: annanahs@test.com; Passwort: loginlogin
 */
 
 -- phpMyAdmin SQL Dump
